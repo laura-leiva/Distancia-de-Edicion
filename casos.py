@@ -1,4 +1,5 @@
 import random
+from datetime import datetime
 
 def guardar_cadenas_en_txt(nombre_archivo, cadena1, cadena2):
     with open(nombre_archivo, "w") as archivo:
@@ -6,8 +7,8 @@ def guardar_cadenas_en_txt(nombre_archivo, cadena1, cadena2):
         archivo.write(f"{cadena2}\n")
 
 def generar_cadenas_aleatorias():
-    longitud_cadena1 = random.randint(1, 120) 
-    longitud_cadena2 = random.randint(1, 120) 
+    longitud_cadena1 = random.randint(1, 250) 
+    longitud_cadena2 = random.randint(1, 250) 
     
     cadena1 = ''.join(random.choices("abcdefghijklmnopqrstuvwxyz", k=longitud_cadena1))
     cadena2 = ''.join(random.choices("abcdefghijklmnopqrstuvwxyz", k=longitud_cadena2))

@@ -51,15 +51,3 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-TFuerzaBruta_filtrados = [fb for fb in TFuerzaBruta if fb is not None]
-TProgDinamica_filtrados = [td for td in TProgDinamica if td is not None]
-plt.figure(figsize=(10, 6))
-plt.hist(TFuerzaBruta_filtrados, bins=10, alpha=0.5, label='Fuerza Bruta', color='red')
-plt.hist(TProgDinamica_filtrados, bins=10, alpha=0.5, label='Programación Dinámica', color='blue')
-plt.title('Distribución de Tiempos de Transformación')
-plt.xlabel('Tiempo de Transformación (segundos)')
-plt.ylabel('Frecuencia')
-plt.legend()
-plt.grid(True)
-plt.show()
-

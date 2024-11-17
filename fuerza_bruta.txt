@@ -1,0 +1,4 @@
+Distancia entre 'wdh' y 'uginjfkjhamqbtoklhgqiemengeyrixtrhuucshvfcauqaiayo': 51
+Tamaño de cadena1: 3
+Tamaño de cadena2: 50
+Tiempo de ejecución: 52.039 ms
