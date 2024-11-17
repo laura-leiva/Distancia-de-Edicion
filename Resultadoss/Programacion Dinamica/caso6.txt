@@ -1,0 +1,4 @@
+Distancia entre 'hjvbdsjh' y 'jbkdkjf': 7
+Tamaño de cadena1: 8
+Tamaño de cadena2: 7
+Tiempo de ejecución: 0.0247 ms

@@ -1,0 +1,4 @@
+Distancia entre '' y '': 0
+Tamaño de cadena1: 0
+Tamaño de cadena2: 0
+Tiempo de ejecución: 0.0005 ms

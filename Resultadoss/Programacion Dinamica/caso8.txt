@@ -1,0 +1,4 @@
+Distancia entre 'vjygmlsslepnhjzjlgfnyeohjglzirhu' y '': 32
+Tamaño de cadena1: 32
+Tamaño de cadena2: 0
+Tiempo de ejecución: 0.0213 ms

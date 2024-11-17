@@ -1,0 +1,4 @@
+Distancia entre 'aaabbbcccddd' y 'aaabbbcccddd': 0
+Tamaño de cadena1: 12
+Tamaño de cadena2: 12
+Tiempo de ejecución: 0.0404 ms

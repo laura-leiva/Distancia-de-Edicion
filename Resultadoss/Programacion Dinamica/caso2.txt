@@ -1,0 +1,4 @@
+Distancia entre 'aaabaaab' y 'bbbb': 8
+Tamaño de cadena1: 8
+Tamaño de cadena2: 4
+Tiempo de ejecución: 0.0131 ms

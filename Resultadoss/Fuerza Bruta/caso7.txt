@@ -1,0 +1,4 @@
+Distancia entre 'aka' y 'kaa': 1
+Tamaño de cadena1: 3
+Tamaño de cadena2: 3
+Tiempo de ejecución: 0.0114 ms

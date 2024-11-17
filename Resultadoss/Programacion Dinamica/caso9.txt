@@ -1,0 +1,4 @@
+Distancia entre 'nvgouvhtbnvgkxthdfecqq' y 'dsvjhsvdjhvcmbmxzv': 30
+Tamaño de cadena1: 22
+Tamaño de cadena2: 18
+Tiempo de ejecución: 0.0764 ms

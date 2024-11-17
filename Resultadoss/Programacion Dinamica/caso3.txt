@@ -1,0 +1,4 @@
+Distancia entre 'sd' y 'jbvbuhsojn': 10
+Tamaño de cadena1: 2
+Tamaño de cadena2: 10
+Tiempo de ejecución: 0.0131 ms
